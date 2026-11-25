@@ -1,0 +1,1 @@
+{"description":"One funny, true line reviewing a dustpan — entry for The Most Boring Object, Reviewed in One Line on make.fun","license":"MIT","main":"main.ts","name":"makefun-boring-object","scripts":{"self-check":"node main.ts --self-check","start":"node main.ts"},"type":"module","version":"1.0.0"}
